@@ -75,7 +75,7 @@
     "Blue Component" : 0.73333334922790527,
     "Red Component" : 0.73333334922790527
   },
-  "Working Directory" : "\/Users\/yourname",
+  "Working Directory" : "\/Users\/dummyname",
   "Blinking Cursor" : false,
   "Disable Window Resizing" : true,
   "Sync Title" : false,
@@ -128,7 +128,7 @@
   },
   "Window Type" : 0,
   "Blur Radius" : 0.10000000000000001,
-  "Background Image Location" : "\/Users\/yourname\/.config\/iterm\/bgimg/458515.jpg",
+  "Background Image Location" : "\/Users\/dummyname\/.config\/iterm\/bgimg/458515.jpg",
   "Blur" : true,
   "Badge Color" : {
     "Red Component" : 1,
